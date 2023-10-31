@@ -4,7 +4,11 @@
 
 body {
   font-family: sans-serif;
-  background-color: rgb(236, 240, 251);
+  background-color: rgb(236, 238, 232);
+}
+
+h1 {
+  color: rgb(41, 55, 36);
 }
 
 .container {
@@ -12,4 +16,9 @@ body {
   max-width: 860px;
   margin: 0 auto;
   padding: 0 20;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
 }
