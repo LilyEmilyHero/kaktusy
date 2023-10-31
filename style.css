@@ -9,6 +9,8 @@ body {
 
 h1 {
   color: rgb(41, 55, 36);
+  font-family: Freckle Face, sans-serif;
+  font-size: 300%;
 }
 
 .container {
